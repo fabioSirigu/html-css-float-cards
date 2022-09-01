@@ -8,11 +8,12 @@ body {
       margin: auto;
       font-family: 'Comfortaa', cursive;
 }
+
 header {
       margin-top: 50px;
       text-align: center;
 }
-h1 {
+h1, footer {
       color: #E53170;
       font-family: 'Fredoka One', cursive;
 }
@@ -42,6 +43,7 @@ h1 {
 .row {
       margin: auto;
       width: 100%;
+      margin-bottom: 50px;
 }
 
 .col_4 {
@@ -95,3 +97,7 @@ div > p {
  .right {
       float: right;
  }
+
+footer {
+      text-align: center;
+}
