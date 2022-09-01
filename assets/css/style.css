@@ -18,7 +18,7 @@ h1, footer {
       font-family: 'Fredoka One', cursive;
 }
 
-#site_main > section {
+#site_main > div {
       width: 80%;
       margin: auto;
       text-align: center;
