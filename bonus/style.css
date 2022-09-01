@@ -55,7 +55,8 @@ h1, footer {
 }
 
 .col_4 {
-      width: calc(100% / 3);
+      width: calc(100% / 3 - 10px);
+      margin: 5px;
       float: left;
 }
 .card {
@@ -94,13 +95,6 @@ div > p {
       font-size: 0.5rem;
       color: #6ECBE6;
       ;
-}
-.center {
-      margin:auto;
- }
- 
-.right {
-      float: right;
 }
 
 footer {
